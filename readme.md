@@ -21,22 +21,29 @@ Before running the application, make sure you have the following:
 
 #Zoom OAuth settings
 ZOOM_CLIENT_ID=
+
 ZOOM_CLIENT_SECRET=
+
 REDIRECT_URI=
 
 #Zoom Bot settings
 ZOOM_BOT_JID=
+
 ZOOM_ACCOUNT_ID= 
+
 
 #Mailbox details
 MAILBOX_EMAIL=
 
+
 #Weaviate
 ENDPOINT_USERNAME = 
-ENDPOINT_PASSWORD = 
-WEAVIATE_URL=
-Weaviate-ID= 
 
+ENDPOINT_PASSWORD = 
+
+WEAVIATE_URL=
+
+Weaviate-ID= 
 
 4. Install the required dependencies by running `npm install`.
 
