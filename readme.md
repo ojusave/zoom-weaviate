@@ -1,4 +1,4 @@
-# Zoom Teams Chat app
+# Zooviate Chatbot on Zoom Teams Chat
 
 This is a Node.js application that integrates with the Zoom Workplace to fetch email and calendar data, and provides a chatbot interface for querying and updating the data. The application uses the Zoom OAuth2 authentication flow to obtain access tokens and interacts with the Zoom APIs for emails, calendars, and chat messaging.
 
