@@ -20,6 +20,7 @@ Before running the application, make sure you have the following:
 3. Create a `.env` file in the root directory and add the following environment variables:
 
 #Zoom OAuth settings
+
 ZOOM_CLIENT_ID=
 
 ZOOM_CLIENT_SECRET=
@@ -27,16 +28,19 @@ ZOOM_CLIENT_SECRET=
 REDIRECT_URI=
 
 #Zoom Bot settings
+
 ZOOM_BOT_JID=
 
 ZOOM_ACCOUNT_ID= 
 
 
 #Mailbox details
+
 MAILBOX_EMAIL=
 
 
 #Weaviate
+
 ENDPOINT_USERNAME = 
 
 ENDPOINT_PASSWORD = 
