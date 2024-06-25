@@ -17,37 +17,7 @@ Before running the application, make sure you have the following:
 
 1. Clone the repository or download the source code.
 2. Navigate to the project directory.
-3. Create a `.env` file in the root directory and add the following environment variables:
-
-#Zoom OAuth settings
-
-ZOOM_CLIENT_ID=
-
-ZOOM_CLIENT_SECRET=
-
-REDIRECT_URI=
-
-#Zoom Bot settings
-
-ZOOM_BOT_JID=
-
-ZOOM_ACCOUNT_ID= 
-
-
-#Mailbox details
-
-MAILBOX_EMAIL=
-
-
-#Weaviate
-
-ENDPOINT_USERNAME = 
-
-ENDPOINT_PASSWORD = 
-
-WEAVIATE_URL=
-
-Weaviate-ID= 
+3. In the `sample.env` file in the root directory add the values for the  environment variables. The values can be found in the Zoom Developer Portal and Weaviate Developer Portal.
 
 4. Install the required dependencies by running `npm install`.
 
